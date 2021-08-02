@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Henrique
-- 👀 I’m interested in learn
-- 🌱 I’m currently learning to learn
+- 📚 I’m interested in learn
+- 🕶 I’m currently learning to learn
 
 ### My Tech Stack
 
