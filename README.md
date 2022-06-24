@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning JavaScript 
 - 🤔 I’m looking for help with code reviews 
 - 💬 Ask me about anything 
-- 😄 Pronouns: Hyck/Hickk
+- 😄 Pronouns: Hyck
 
  <div>
   <a href="https://github.com/euhickk">
